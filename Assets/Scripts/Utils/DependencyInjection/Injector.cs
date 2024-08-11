@@ -4,7 +4,7 @@ using System.Linq;
 using System.Reflection;
 using UnityEngine;
 
-namespace DependencyInjection
+namespace UnityUtils
 {
     [AttributeUsage(AttributeTargets.Field | AttributeTargets.Method | AttributeTargets.Property)]
     public sealed class InjectAttribute : PropertyAttribute { }

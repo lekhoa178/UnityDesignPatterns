@@ -1,10 +1,10 @@
-using DependencyInjection;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using UnityEditor.Rendering;
 using UnityEngine;
 using UnityEngine.AI;
+using UnityUtils;
 
 [RequireComponent(typeof(NavMeshAgent))]
 [RequireComponent(typeof(AnimationController))]

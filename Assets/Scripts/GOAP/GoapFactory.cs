@@ -1,6 +1,6 @@
-using DependencyInjection;
 using UnityEngine;
 using UnityServiceLocator;
+using UnityUtils;
 
 public class GoapFactory : MonoBehaviour, IDependencyProvider
 {

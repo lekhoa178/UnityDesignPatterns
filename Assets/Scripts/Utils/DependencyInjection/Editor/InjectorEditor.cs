@@ -1,7 +1,7 @@
 using UnityEditor;
 using UnityEngine;
 
-namespace DependencyInjection
+namespace UnityUtils
 {
     [CustomEditor(typeof(Injector))]
     public class InjectorEditor : Editor

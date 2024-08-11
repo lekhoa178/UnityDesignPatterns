@@ -1,5 +1,6 @@
 ﻿using System;
 using UnityEngine;
+using UnityUtils;
 
 public class StatModifier : IDisposable
 {
